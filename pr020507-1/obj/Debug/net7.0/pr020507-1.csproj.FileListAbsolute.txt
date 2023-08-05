@@ -1,0 +1,15 @@
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\bin\Debug\net7.0\pr020507-1.exe
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\bin\Debug\net7.0\pr020507-1.deps.json
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\bin\Debug\net7.0\pr020507-1.runtimeconfig.json
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\bin\Debug\net7.0\pr020507-1.dll
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\bin\Debug\net7.0\pr020507-1.pdb
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.csproj.AssemblyReference.cache
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.AssemblyInfoInputs.cache
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.AssemblyInfo.cs
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.csproj.CoreCompileInputs.cache
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.dll
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\refint\pr020507-1.dll
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.pdb
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\pr020507-1.genruntimeconfig.cache
+C:\Users\aimz\source\repos\pr020507-1\pr020507-1\obj\Debug\net7.0\ref\pr020507-1.dll
